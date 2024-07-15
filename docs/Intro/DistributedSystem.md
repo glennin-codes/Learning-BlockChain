@@ -10,8 +10,8 @@ It composed of process ``NODES`` and Channels ` communication channels`  where n
  - Nodes can be honesty,faulty and malicious and the have memory and processor.
  - a node that exhebits arbitrary behaviour is called a **bzyantine node** 
 
-<span style="color: blue;">
-✔️ **The Byzantine Generals problem**
+       - <span style="color: blue;">
+✔️ **The Byzantine Generals problem** 
 
 In 1982, a thought experiment was proposed by Lamport et al. in their research paper,
 The Byzantine Generals Problem, which is available here: https://www.microsoft.com/
