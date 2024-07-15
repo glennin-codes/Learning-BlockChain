@@ -11,7 +11,7 @@ It composed of process ``NODES`` and Channels ` communication channels`  where n
  - a node that exhebits arbitrary behaviour is called a **bzyantine node** 
 
      
-    -  * ✔️ **The Byzantine Generals problem** 
+    -  ✔️ **The Byzantine Generals problem** 
 
     In 1982, a thought experiment was proposed by Lamport et al. in their research paper,
     [The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
@@ -26,4 +26,4 @@ It composed of process ``NODES`` and Channels ` communication channels`  where n
     as honest nodes, the traitors as Byzantine nodes (that is, nodes with arbitrary behavior),
     the messenger can be thought of as a channel of communication with the generals, and
     a captured messenger as a delayed or lost message. Several solutions were presented to
-    this problem in the paper by Lamport et al. in 1982.*
+    this problem in the paper by Lamport et al. in 1982.
