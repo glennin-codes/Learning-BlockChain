@@ -47,11 +47,12 @@ with data without any failures and when required.
 
 
 
-In blockchains, consistency is sacrificed in favor of availability and partition tolerance. In this scenario, consistency (C) in the blockchain is not achieved simultaneously with partition tolerance (P) and
+`In blockchains, consistency is sacrificed in favor of availability and partition tolerance. In this scenario, consistency (C) in the blockchain is not achieved simultaneously with partition tolerance (P) and
 availability (A), but it is achieved over time. This is called eventual consistency, where consistency is
 achieved due to validation from multiple nodes over time. There can be a temporary disagreement
 between nodes on the final state, but it is eventually agreed upon. For example, in Bitcoin, multiple
-transaction confirmations are required to achieve a good confidence level that transactions may not
+transaction confirmations are fast.com’s DNS address could not be found. Diagnosing the problem.
+required to achieve a good confidence level that transactions may not
 be rolled back in the future. Eventually, a consistent view of transaction history is available in all
 nodes. Multiple confirmations of a transaction over time provide eventual consistency in Bitcoin. For
 this purpose, the process of mining was introduced in Bitcoin. Mining is a process that facilitates the
