@@ -56,4 +56,4 @@ required to achieve a good confidence level that transactions may not
 be rolled back in the future. Eventually, a consistent view of transaction history is available in all
 nodes. Multiple confirmations of a transaction over time provide eventual consistency in Bitcoin. For
 this purpose, the process of mining was introduced in Bitcoin. Mining is a process that facilitates the
-achievement of consensus by using the Proof of Work (PoW) algorithm.
+achievement of consensus by using the Proof of Work (PoW) algorithm.`
