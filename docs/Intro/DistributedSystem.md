@@ -43,7 +43,7 @@ with data without any failures and when required.
 
 *A Venn diagram is commonly used to visualize the CAP theorem, as shown below:*
 
-![A Venn diagram](../../Images/image.png)
+![A Venn diagram](../Images/image.png)
 
 
 
